@@ -1,0 +1,11 @@
+.box{
+    padding:50px 60px 70px 80px ;
+    border: 20px solid orange;
+    margin: 10px;
+    background-color: aqua;
+}
+.rect{
+    border: 30px solid black;
+    height: 100px;
+    width: 200px;
+}

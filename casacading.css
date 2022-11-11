@@ -1,0 +1,20 @@
+h1, h2{
+    color: red;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+h2{
+    color: orangered;
+    font-size: 75px;
+    text-transform: capitalize;
+}
+.classSelector{
+    color: green;
+    font-style:italic;
+    text-decoration-line: underline;
+}
+#header{
+    color:blueviolet;
+    font-size: 100px;
+    text-decoration: overline;
+}
