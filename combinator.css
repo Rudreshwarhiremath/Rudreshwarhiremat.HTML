@@ -1,0 +1,83 @@
+div p{
+    color: sienna;
+}
+/* child selector */
+div > p {
+    color: orange;
+}
+/* adjustcent sibling selector */
+div + p {
+    color: violet;
+}
+/* general sibling selector */
+div ~ p {
+    color: rgb(10, 218, 148);
+}
+/* colour property*/
+/* position  bottom right left */
+.static {
+    position: static;
+    top: 10px;
+}
+.relative {
+    right: 0px; 
+    top: 0; 
+    position: relative;
+}
+.absolute{
+   color: black;
+    top: 0;
+    left:600px;
+    position: absolute;
+}
+.topleft{
+    position: absolute;
+    color: rgb(228, 96, 14);
+    left: 0px;
+
+}
+.topmiddel{
+    color: rgb(210, 30, 30);
+    top: 0;
+    left: 170px ;
+    position: absolute;
+}
+.topright{
+    color: brown;
+    top: 0;
+    left: 425px;
+    position: absolute;
+}
+.fixed{
+    bottom: -200;
+    left: 700px;
+    position: fixed;
+    background-color: red;
+}
+.sticky{
+    position: static;
+    top:0;
+    background-color: yellowgreen;
+}
+ul{
+    list-style-type: none;
+    
+    color: blue;
+
+}
+li{
+    padding: 5px;
+    background-color: gold;
+   
+}
+
+body{
+    margin: 5px;
+}
+/*img{
+    border-radius: 100%;
+
+}*/
+/*
+navigation
+*/

@@ -1,0 +1,48 @@
+.boxtype{
+    padding:40px 20px ;
+    margin: 10px;
+    background-color: rgb(105, 242, 169);
+}
+.mobile{
+    position: absolute;
+    left: 250px;
+}
+.email{
+    position: absolute;
+    right: 200px;
+}
+.objective{
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+.skills{
+    position: absolute;
+    top: 250px;
+    right:350px;
+}
+.EducationDetails{
+    position: absolute;
+    top: 400px;
+    left: 250px;
+}
+.Address{
+    position: absolute;
+    top: 400px;
+    right:150px;
+}
+.Hobbies{
+    position: absolute;
+    top: 600px;
+    right:300px;
+
+}
+.Project{
+    position: absolute;
+    top: 800px;
+    left: 250px;
+}
+body{
+    padding: top 250px 300px ;
+    background-color: rgb(171, 234, 223);
+}
