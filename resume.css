@@ -1,48 +1,86 @@
-.boxtype{
-    padding:40px 20px ;
-    margin: 10px;
-    background-color: rgb(105, 242, 169);
-}
+
 .mobile{
     position: absolute;
-    left: 250px;
+    top: 130px;
+    left: 300px;
+}
+.git{
+    position: absolute;
+    top: 170px;
+    left: 300px;
+
 }
 .email{
     position: absolute;
-    right: 200px;
+    top: 210px;
+    left: 300px;
 }
 .objective{
     position: absolute;
     top: 250px;
-    left: 250px;
+    left: 300px;
 }
 .skills{
     position: absolute;
     top: 250px;
-    right:350px;
+    right:500px;
 }
 .EducationDetails{
     position: absolute;
     top: 400px;
-    left: 250px;
+    left:300px;
 }
 .Address{
     position: absolute;
     top: 400px;
-    right:150px;
+    right:300px;
 }
 .Hobbies{
     position: absolute;
     top: 600px;
-    right:300px;
+    right:460px;
 
 }
 .Project{
     position: absolute;
     top: 800px;
-    left: 250px;
+    left:300px;
 }
-body{
-    padding: top 250px 300px ;
-    background-color: rgb(171, 234, 223);
+.body{
+    
+    border: 2px solid black;
+    padding-top: 1100px;
+    padding-left:100px;
+    padding-right: 100px;
+    margin-left:220px;
+    margin-right: 220px;
+    background-color: rgb(155, 232, 206);
+
+    
+   
+}
+.name{
+    position: absolute;
+    top: 40px;
+    left: 300px;
+}
+.image{
+    position: absolute;
+    top:90px;
+    right: 500px;
+}
+.declaration{
+    position: absolute;
+    top: 950px;
+    left: 300px;
+}
+.place{
+    position: absolute;
+    left: 300px;
+    top: 1060px;
+}
+.signutre{
+    position: absolute;
+    right:500px;
+    top: 1060px;
 }
