@@ -52,11 +52,11 @@
     padding-top: 1100px;
     padding-left:100px;
     padding-right: 100px;
-    margin-left:220px;
-    margin-right: 220px;
-    background-color: rgb(155, 232, 206);
+    margin-left:250px;
+    margin-right: 260px;
+    background-color: rgb(218, 224, 222);
 
-    
+  
    
 }
 .name{
@@ -83,4 +83,12 @@
     position: absolute;
     right:500px;
     top: 1060px;
+}
+body {
+    background-color: blue;
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: aqua;
+    }
 }

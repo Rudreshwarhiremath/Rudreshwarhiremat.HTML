@@ -81,3 +81,13 @@ body{
 /*
 navigation
 */
+
+
+body {
+    background-color: blue;
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: aqua;
+    }
+}
